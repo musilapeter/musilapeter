@@ -19,8 +19,8 @@ I am a **Forward Deployed Engineer**, **Technical Architect**, and the **Founder
 ---
 
 ### 🧰 Tech Stack & Tools
-*   **Languages:** Python, JavaScript/TypeScript
-*   **Frameworks & Libraries:** FastAPI, Astro, Svelte, TailwindCSS
+*   **Languages:** Go, C++, Python, JavaScript/TypeScript
+*   **Frameworks & Libraries:** FastAPI, React, NextJs, TailwindCSS
 *   **AI/ML:** Predictive Modeling, Random Forest, AI Agent Integration, RAG Applications
 *   **Architectures:** Event-driven systems, Headless & Modular Configurations
 
