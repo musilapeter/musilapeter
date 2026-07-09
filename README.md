@@ -1,31 +1,35 @@
-# 👋 Hi, I'm Musila Peter
+# Hi there, I'm Musila Peter 👋
 
-**Software Engineer** specializing in Python and MERN Stack
+I am a **Forward Deployed Engineer**, **Technical Architect**, and the **Founder of Tecxify**. I specialize in bridging the gap between complex business logic and robust software systems, with a core focus on building scalable architectures, AI integrations, and high-performance APIs.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://linkedin.com/in/musilapeter)
-[![Website](https://img.shields.io/badge/Website-musila.dev-green)](https://musila.dev)
+---
 
-## 🚀 About Me
+### 🛠️ What I Do
+*   **System Architecture & APIs:** Crafting resilient, production-ready systems and RESTful APIs, primarily utilizing Python and FastAPI.
+*   **AI & Machine Learning:** Integrating intelligent agents and deploying machine learning models (like Random Forest) to solve real-world automation and predictive challenges.
+*   **Tech Ecosystems:** Active community member, contributor, and mentor—helping learners transition from writing their first line of code to building advanced AI systems.
 
-I'm Musila Peter, a junior software engineer with 3 years of experience in programming and writing web applications. I specialize in:
+---
 
-- **Languages:** ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-- **Frameworks:** ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
-- **Cloud:** ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
+### 🚀 Featured Projects & Highlights
+*   **Tecxify:** Leading engineering and product strategy to build impactful, scalable technical solutions.
+*   **EnvSync:** Built an encrypted environment vault designed to help developers securely manage and sync their configuration files.
+*   **Hackathons & Innovation:** 1st Runners Up in an intensive 48-hour health-tech hackathon (ML-driven triage architecture) and active participant in the Kenya AI Challenge 2026.
 
-## 📌 Featured Projects
+---
 
-### [ODPC-RAG ChatBot](https://web.think.ke)
-An intelligent AI chatbot for the Office of the Data Protection Commissioner (ODPC) Kenya, powered by Retrieval-Augmented Generation (RAG). This system automatically crawls the official ODPC website, indexes content, and provides accurate, source-backed answers to queries about Kenyan data protection laws and regulations. Build together with Eric Mwangi https://github.com/Rickmwasofficial
+### 🧰 Tech Stack & Tools
+*   **Languages:** Python, JavaScript/TypeScript
+*   **Frameworks & Libraries:** FastAPI, Astro, Svelte, TailwindCSS
+*   **AI/ML:** Predictive Modeling, Random Forest, AI Agent Integration, RAG Applications
+*   **Architectures:** Event-driven systems, Headless & Modular Configurations
 
-### [Finder — Lost & Found Recovery Place](https://finder-2vxr.onrender.com/)
-A polished MERN-style lost-and-found web application built with React, Vite, Tailwind CSS, Express, MongoDB, and Cloudinary. This project demonstrates a full-stack workflow, file upload handling, responsive UI, and modern frontend/back-end best practices.
+---
 
-## 📊 GitHub Stats
+### 📝 Read My Insights
+I regularly break down engineering case studies, deep-dives, and system design breakdowns on my official blog. 
 
-![GitHub Metrics](/github-metrics.svg)
-
-## 📫 Connect With Me
+💬 **Let's Connect:** Looking to collaborate on AI-driven systems, clean architectures, or community tech initiatives? Hit me up or check out my repositories below!
 
 - LinkedIn: [linkedin.com/in/musilapeter](https://linkedin.com/in/musilapeter)
 - Website: [musila.dev](https://musila.dev)
