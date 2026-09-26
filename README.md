@@ -1,6 +1,7 @@
-# Hi, I'm Musila Peter 👋
 
 <div align="center">
+
+# Musila Peter
 
 ### Web Developer · AI/ML Builder · Technology Enthusiast
 
