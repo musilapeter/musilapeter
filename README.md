@@ -7,7 +7,7 @@
 I build practical web solutions and intelligent systems that help businesses make better decisions, improve operations, and create meaningful impact. My work sits at the intersection of software engineering, AI/ML orchestration, and real-world problem solving—especially in business and healthcare.
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/musilapeter)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/musilapeter)
 
 </div>
 
@@ -55,16 +55,6 @@ I am actively contributing to and building with:
 - [**CracksFox**](https://cracksfox.com/) — creating and improving web experiences and technology solutions.
 - [**SaneGenius**](https://sanegenius.com/) — contributing to digital products focused on useful, intelligent solutions.
 - [**Tecxify**](https://tecxify.xyz/) — contributing to technology, development, and innovation initiatives.
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-![Musila Peter's GitHub stats](https://github-readme-stats.vercel.app/api?username=musilapeter&show_icons=true&theme=transparent)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=musilapeter&layout=compact&theme=transparent)
-
-</div>
 
 ## 🤝 Let's Connect
 
